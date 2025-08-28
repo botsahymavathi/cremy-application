@@ -19,10 +19,10 @@ const LandingPage = ({change}) => {
         <ContentSection />
         <GallerySection />
         <HoverSection />
-        <FeatureSection />
-        <PricingSection />
-        <TeamSection />
-        <TestimonialSection />
+        {/* <FeatureSection /> */}
+        {/* <PricingSection /> */}
+        {/* <TeamSection /> */}
+        {/* <TestimonialSection /> */}
         <ContactSection />
         <FooterSection />
     </div>
